@@ -1,3 +1,3 @@
 My version of 100 days css challenge.
-100 days css challenge it's a 100 tasks 
+https://100dayscss.com/ here you can see all tasks.
 1 task - one screen.
